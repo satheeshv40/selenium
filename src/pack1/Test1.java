@@ -19,6 +19,8 @@ public class Test1 {
 		System.out.println("one");
 		System.out.println("two");
 		System.out.println("three");
+		System.out.println("three1");
+		System.out.println("three2");
 		
 	}
 

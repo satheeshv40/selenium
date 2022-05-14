@@ -18,6 +18,7 @@ public class Test1 {
 		System.out.println(age);
 		System.out.println("one");
 		System.out.println("two");
+		System.out.println("three");
 		
 	}
 

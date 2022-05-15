@@ -24,4 +24,7 @@ public class Test1 {
 		
 	}
 
+	public void method2() {
+		System.out.println("new Method");
+	}
 }

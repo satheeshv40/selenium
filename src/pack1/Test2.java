@@ -16,5 +16,11 @@ public class Test2 {
 		
 	}
 	
+	@Test
+	public  void newmeta1() {
+		System.out.println("newmeta1");
+		
+	}
+	
 
 }
